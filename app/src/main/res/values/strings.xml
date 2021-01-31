@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SequanceGAME</string>
+    <string name="start">Start</string>
+    <string name="categoria">Selezione la categoria</string>
+    <string name="s.3x3">Modalità 3x3</string>
+    <string name="s.4x4">Modalità 4x4</string>
+    <string name="s.5x5">Modalità 5x5</string>
+    <string name="s.6x6">Modalità 6x6</string>
+    <string name="s.7x7">Modalità 7x7</string>
+</resources>
